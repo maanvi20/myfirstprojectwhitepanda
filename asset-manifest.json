@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/myfirstprojectwhitepanda/static/css/main.85af4405.chunk.css",
+    "main.js": "/myfirstprojectwhitepanda/static/js/main.db0b28f8.chunk.js",
+    "main.js.map": "/myfirstprojectwhitepanda/static/js/main.db0b28f8.chunk.js.map",
+    "runtime-main.js": "/myfirstprojectwhitepanda/static/js/runtime-main.369d45cc.js",
+    "runtime-main.js.map": "/myfirstprojectwhitepanda/static/js/runtime-main.369d45cc.js.map",
+    "static/css/2.802837ff.chunk.css": "/myfirstprojectwhitepanda/static/css/2.802837ff.chunk.css",
+    "static/js/2.b8d453a3.chunk.js": "/myfirstprojectwhitepanda/static/js/2.b8d453a3.chunk.js",
+    "static/js/2.b8d453a3.chunk.js.map": "/myfirstprojectwhitepanda/static/js/2.b8d453a3.chunk.js.map",
+    "index.html": "/myfirstprojectwhitepanda/index.html",
+    "precache-manifest.ad740ed8ae4f6edfdb27c3f8293d6024.js": "/myfirstprojectwhitepanda/precache-manifest.ad740ed8ae4f6edfdb27c3f8293d6024.js",
+    "service-worker.js": "/myfirstprojectwhitepanda/service-worker.js",
+    "static/css/2.802837ff.chunk.css.map": "/myfirstprojectwhitepanda/static/css/2.802837ff.chunk.css.map",
+    "static/css/main.85af4405.chunk.css.map": "/myfirstprojectwhitepanda/static/css/main.85af4405.chunk.css.map",
+    "static/media/avatar.png": "/myfirstprojectwhitepanda/static/media/avatar.483f6b56.png",
+    "static/media/bell.png": "/myfirstprojectwhitepanda/static/media/bell.bb350d86.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.369d45cc.js",
+    "static/css/2.802837ff.chunk.css",
+    "static/js/2.b8d453a3.chunk.js",
+    "static/css/main.85af4405.chunk.css",
+    "static/js/main.db0b28f8.chunk.js"
+  ]
+}
