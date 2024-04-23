@@ -5,7 +5,7 @@
   "homepage": "https://maanvi20.github.io/myfirstprojectwhitepanda",
   "dependencies": {
     "antd": "^3.23.5",
-    "gh-pages": "^2.1.1",
+    "gh-pages": "^6.1.1",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-scripts": "3.2.0"
